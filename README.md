@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0058-length-of-last-word) |
 | [0434-number-of-segments-in-a-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0434-number-of-segments-in-a-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
