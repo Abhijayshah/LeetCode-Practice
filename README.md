@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0058-length-of-last-word) |
+| [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
 | [0434-number-of-segments-in-a-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0434-number-of-segments-in-a-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Binary Search
 |  |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
