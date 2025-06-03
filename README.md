@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
 ## Design
 |  |
@@ -97,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
