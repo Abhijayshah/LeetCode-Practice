@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
