@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
