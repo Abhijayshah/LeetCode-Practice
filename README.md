@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0404-sum-of-left-leaves) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
