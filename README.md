@@ -30,18 +30,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Hash Table
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0258-add-digits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
