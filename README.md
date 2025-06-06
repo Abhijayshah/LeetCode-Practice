@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
 | [0434-number-of-segments-in-a-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0434-number-of-segments-in-a-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Tree
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0908-middle-of-the-linked-list) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
+## Greedy
+|  |
+| ------- |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2816-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
