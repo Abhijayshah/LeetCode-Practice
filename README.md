@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0783-search-in-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2816-lexicographically-smallest-palindrome) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
