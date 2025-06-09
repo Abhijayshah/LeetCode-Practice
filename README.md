@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0125-valid-palindrome) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0784-insert-into-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
