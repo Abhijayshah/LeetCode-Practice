@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
+| [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Dynamic Programming
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
+| [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
