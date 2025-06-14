@@ -262,4 +262,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
