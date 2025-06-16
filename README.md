@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0283-move-zeroes) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0258-add-digits) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1372-check-if-it-is-a-good-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1916-find-center-of-star-graph) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
