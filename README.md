@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0125-valid-palindrome) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0561-array-partition) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
