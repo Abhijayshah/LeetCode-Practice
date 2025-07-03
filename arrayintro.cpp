@@ -4,7 +4,7 @@ using namespace std;
 // HOLD
 void printArray(int arr[], int size) {
 
-    cout<< " printing the array " << endl;
+    cout<< " printing the array-- hellooo  " << endl;
     //print the array
     for(int i =0; i<size; i++) {
         cout << arr[i] << " ";
