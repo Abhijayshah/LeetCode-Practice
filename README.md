@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0287-find-the-duplicate-number) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
+| [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0908-middle-of-the-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Math
 |  |
