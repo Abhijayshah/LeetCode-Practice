@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1372-check-if-it-is-a-good-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2350-find-closest-number-to-zero](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2350-find-closest-number-to-zero) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/3206-find-common-elements-between-two-arrays) |
