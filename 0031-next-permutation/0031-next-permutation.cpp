@@ -18,11 +18,11 @@ public:
             while (nums[j] <= nums[i]) {
                 j--;
             }
-            // Step 3: Swap
+            // Step 3: Swap nums[i] and nums[j]
             swap(nums[i], nums[j]);
         }
 
-        // Step 4: Reverse the suffix
+        // Step 4: Reverse suffix from i+1 to end
         reverse(nums.begin() + i + 1, nums.end());
     }
 };
