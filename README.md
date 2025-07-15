@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0565-array-nesting) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0948-sort-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0543-diameter-of-binary-tree) |
+| [0565-array-nesting](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0565-array-nesting) |
 ## Binary Tree
 |  |
 | ------- |
