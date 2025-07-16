@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0287-find-the-duplicate-number) |
+| [0384-shuffle-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0384-shuffle-an-array) |
 | [0525-contiguous-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0565-array-nesting) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
+| [0384-shuffle-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0384-shuffle-an-array) |
 | [0507-perfect-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0507-perfect-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0968-beautiful-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0968-beautiful-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0225-implement-stack-using-queues) |
+| [0384-shuffle-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0384-shuffle-an-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 ## Queue
 |  |
@@ -369,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0948-sort-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
