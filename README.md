@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0441-arranging-coins) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 ## Two Pointers
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0384-shuffle-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0384-shuffle-an-array) |
+| [0441-arranging-coins](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0507-perfect-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0968-beautiful-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0968-beautiful-array) |
