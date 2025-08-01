@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0067-add-binary) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Graph
