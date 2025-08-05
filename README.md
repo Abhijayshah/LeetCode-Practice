@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0152-maximum-product-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0204-count-primes) |
@@ -416,5 +418,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
