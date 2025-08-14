@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-beautiful-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0968-beautiful-array) |
 | [0978-valid-mountain-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0978-valid-mountain-array) |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
+| [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1372-check-if-it-is-a-good-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0525-contiguous-array) |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
+| [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 ## Counting
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 ## Backtracking
 |  |
 | ------- |
