@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0125-valid-palindrome) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
