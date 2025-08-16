@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0330-patching-array) |
 | [0384-shuffle-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0384-shuffle-an-array) |
 | [0525-contiguous-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0561-array-partition) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0045-jump-game-ii) |
+| [0330-patching-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0330-patching-array) |
 | [0561-array-partition](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0561-array-partition) |
 | [1252-break-a-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1252-break-a-palindrome) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2816-lexicographically-smallest-palindrome) |
