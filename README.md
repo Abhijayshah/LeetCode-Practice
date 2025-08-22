@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3651-transformed-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/3651-transformed-array) |
 ## Dynamic Programming
 |  |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Greedy
 |  |
 | ------- |
