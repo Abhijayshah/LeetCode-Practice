@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3394-minimum-array-end](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
 | ------- |
