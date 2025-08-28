@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1372-check-if-it-is-a-good-array) |
 | [1580-shuffle-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1580-shuffle-the-array) |
+| [1839-decode-xored-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1839-decode-xored-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3394-minimum-array-end](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3394-minimum-array-end) |
