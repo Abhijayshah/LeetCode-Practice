@@ -468,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
