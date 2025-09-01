@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1372-check-if-it-is-a-good-array) |
 | [1580-shuffle-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1580-shuffle-the-array) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1760-check-array-formation-through-concatenation) |
 | [1839-decode-xored-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1760-check-array-formation-through-concatenation) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Divide and Conquer
