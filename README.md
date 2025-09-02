@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1372-check-if-it-is-a-good-array) |
 | [1580-shuffle-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1760-check-array-formation-through-concatenation) |
 | [1839-decode-xored-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0525-contiguous-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1603-running-sum-of-1d-array) |
 ## Bucket Sort
 |  |
 | ------- |
