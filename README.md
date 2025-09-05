@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0152-maximum-product-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0125-valid-palindrome) |
