@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0097-interleaving-string) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
@@ -487,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0175-combine-two-tables) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
