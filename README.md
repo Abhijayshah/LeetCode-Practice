@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3651-transformed-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/3651-transformed-array) |
+| [3778-transform-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
+| [3778-transform-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
+| [3778-transform-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3778-transform-array-by-parity) |
 ## Stack
 |  |
 | ------- |
