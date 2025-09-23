@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0119-pascals-triangle-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0141-linked-list-cycle) |
