@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2429-design-a-food-rating-system) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
+| [2698-find-the-array-concatenation-value](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2698-find-the-array-concatenation-value) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3429-special-array-i) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
+| [2698-find-the-array-concatenation-value](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2698-find-the-array-concatenation-value) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Math
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2058-concatenation-of-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2698-find-the-array-concatenation-value) |
 | [3651-transformed-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/3651-transformed-array) |
 ## Number Theory
 |  |
