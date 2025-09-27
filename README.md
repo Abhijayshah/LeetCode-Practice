@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0072-edit-distance) |
