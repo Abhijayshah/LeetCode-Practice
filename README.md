@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2350-find-closest-number-to-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2429-design-a-food-rating-system) |
+| [2551-apply-operations-to-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2698-find-the-array-concatenation-value) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2698-find-the-array-concatenation-value) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2058-concatenation-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2698-find-the-array-concatenation-value) |
 | [3651-transformed-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/3651-transformed-array) |
 ## Number Theory
