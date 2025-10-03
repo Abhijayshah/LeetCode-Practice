@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0087-scramble-string) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
