@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3651-transformed-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/3651-transformed-array) |
 | [3778-transform-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3778-transform-array-by-parity) |
+| [3952-trionic-array-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3952-trionic-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
