@@ -1,13 +1,13 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     int arrayPairSum(vector<int>& nums) {
-        vector<int> v;
-        v=nums;
-        int n=v.size();
-        sort(v.begin(),v.begin()+n);
-        int sum=0;
-        for(int i=n-2;i>=0;i=i-2){
-            sum=sum+v[i];
+        sort(nums.begin(), nums.end());
+        int sum = 0;
+        for (int i = 0; i < nums.size(); i += 2) {
+            sum += nums[i];
         }
         return sum;
     }
