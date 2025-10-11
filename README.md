@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0130-surrounded-regions) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0394-decode-string) |
