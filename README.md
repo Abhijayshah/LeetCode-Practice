@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0948-sort-an-array) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0287-find-the-duplicate-number) |
