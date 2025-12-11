@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0119-pascals-triangle-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0345-reverse-vowels-of-a-string) |
