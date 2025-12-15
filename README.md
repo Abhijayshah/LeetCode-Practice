@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0136-single-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0119-pascals-triangle-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0152-maximum-product-subarray) |
