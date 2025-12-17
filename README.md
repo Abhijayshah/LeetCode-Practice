@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0565-array-nesting) |
 | [0665-non-decreasing-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0665-non-decreasing-array) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
+| [0922-sort-array-by-parity-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-monotonic-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0561-array-partition) |
+| [0922-sort-array-by-parity-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0908-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2320-find-all-k-distant-indices-in-an-array) |
