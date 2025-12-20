@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0565-array-nesting) |
 | [0665-non-decreasing-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0665-non-decreasing-array) |
+| [0697-degree-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-monotonic-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0932-monotonic-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0525-contiguous-array) |
+| [0697-degree-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
