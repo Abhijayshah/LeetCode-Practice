@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1408-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1603-running-sum-of-1d-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1760-check-array-formation-through-concatenation) |
 | [1769-get-maximum-in-generated-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1769-get-maximum-in-generated-array) |
 | [1839-decode-xored-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1839-decode-xored-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1760-check-array-formation-through-concatenation) |
 | [2429-design-a-food-rating-system](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2429-design-a-food-rating-system) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3778-transform-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
