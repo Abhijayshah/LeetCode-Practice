@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1372-check-if-it-is-a-good-array) |
 | [1408-string-matching-in-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1408-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1580-shuffle-the-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1760-check-array-formation-through-concatenation) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3778-transform-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3778-transform-array-by-parity) |
 ## Counting
