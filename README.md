@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2698-find-the-array-concatenation-value) |
 | [2722-prime-in-diagonal](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
+| [2784-check-if-array-is-good](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2784-check-if-array-is-good) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3429-special-array-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-check-array-formation-through-concatenation](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1760-check-array-formation-through-concatenation) |
 | [2429-design-a-food-rating-system](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2429-design-a-food-rating-system) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2784-check-if-array-is-good) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3324-split-the-array) |
 ## Divide and Conquer
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2784-check-if-array-is-good](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2784-check-if-array-is-good) |
 | [3778-transform-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
