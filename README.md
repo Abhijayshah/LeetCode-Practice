@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1372-check-if-it-is-a-good-array) |
 | [1408-string-matching-in-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1408-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1580-shuffle-the-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0441-arranging-coins) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2634-minimum-common-value](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2722-prime-in-diagonal](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
