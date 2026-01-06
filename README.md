@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0481-magical-string) |
+| [0771-jewels-and-stones](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
