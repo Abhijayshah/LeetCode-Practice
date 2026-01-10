@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0394-decode-string) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
