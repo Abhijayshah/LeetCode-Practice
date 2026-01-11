@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0434-number-of-segments-in-a-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [3324-split-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3324-split-the-array) |
 | [3778-transform-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3778-transform-array-by-parity) |
 ## Stack
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
