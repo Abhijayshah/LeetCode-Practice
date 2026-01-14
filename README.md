@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0481-magical-string) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0268-missing-number) |
 | [0384-shuffle-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0384-shuffle-an-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0507-perfect-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
 | [1769-get-maximum-in-generated-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1769-get-maximum-in-generated-array) |
 | [1920-build-array-from-permutation](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
