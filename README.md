@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0481-magical-string) |
 | [0771-jewels-and-stones](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0812-rotate-string) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0812-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1408-string-matching-in-an-array) |
 ## Sliding Window
