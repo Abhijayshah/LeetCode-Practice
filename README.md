@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0482-license-key-formatting) |
 | [0771-jewels-and-stones](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
