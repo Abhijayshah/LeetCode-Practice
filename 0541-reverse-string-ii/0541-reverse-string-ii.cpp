@@ -1,0 +1,23 @@
+class Solution {
+public:
+    string reverseStr(string s, int k) {
+
+        int n = s.length();
+
+        // Process string in blocks of size 2k
+        for (int i = 0; i < n; i += 2 * k) {
+
+            // Reverse first k characters of the block
+            int left = i;
+            int right = min(i + k - 1, n - 1);
+
+            while (left < right) {
+                swap(s[left], s[right]);
+                left++;
+                right--;
+            }
+        }
+
+        return s;
+    }
+};
