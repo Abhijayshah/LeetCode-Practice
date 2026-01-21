@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
