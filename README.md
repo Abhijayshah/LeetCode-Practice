@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1372-check-if-it-is-a-good-array) |
 | [1408-string-matching-in-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1408-string-matching-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2722-prime-in-diagonal](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
