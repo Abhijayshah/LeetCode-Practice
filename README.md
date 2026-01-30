@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0819-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0861-flipping-an-image) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-rotate-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0812-rotate-string) |
+| [0819-most-common-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0819-most-common-word) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1252-break-a-palindrome) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0819-most-common-word) |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0819-most-common-word) |
 | [3324-split-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3324-split-the-array) |
 | [3778-transform-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3778-transform-array-by-parity) |
 ## Stack
