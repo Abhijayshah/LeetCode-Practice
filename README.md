@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0565-array-nesting) |
 | [0665-non-decreasing-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0665-non-decreasing-array) |
 | [0697-degree-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
+| [0748-shortest-completing-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0819-most-common-word) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0806-number-of-lines-to-write-string) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
+| [0748-shortest-completing-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0819-most-common-word) |
