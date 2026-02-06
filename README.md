@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0812-rotate-string) |
 | [0819-most-common-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0821-shortest-distance-to-a-character) |
+| [0830-positions-of-large-groups](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0830-positions-of-large-groups) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1252-break-a-palindrome) |
