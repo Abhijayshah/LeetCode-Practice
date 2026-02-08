@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0830-positions-of-large-groups](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0859-buddy-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1252-break-a-palindrome) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0859-buddy-strings) |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
