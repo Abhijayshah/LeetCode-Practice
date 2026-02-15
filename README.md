@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0948-sort-an-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0953-verifying-an-alien-dictionary) |
 | [0968-beautiful-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0968-beautiful-array) |
 | [0978-valid-mountain-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0978-valid-mountain-array) |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0953-verifying-an-alien-dictionary) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1252-break-a-palindrome) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0953-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
