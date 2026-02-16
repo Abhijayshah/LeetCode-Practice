@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0953-verifying-an-alien-dictionary) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1252-break-a-palindrome) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Binary Search
