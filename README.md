@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0978-valid-mountain-array) |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1154-day-of-the-year) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1252-break-a-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1252-break-a-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0953-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1039-find-the-town-judge) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1217-relative-sort-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1249-snapshot-array) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [3324-split-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3324-split-the-array) |
 | [3778-transform-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/3778-transform-array-by-parity) |
