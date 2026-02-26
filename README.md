@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1252-break-a-palindrome](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1252-break-a-palindrome) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1332-remove-palindromic-subsequences](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1332-remove-palindromic-subsequences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1408-string-matching-in-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0925-long-pressed-name) |
 | [0941-sort-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0942-di-string-match) |
+| [1332-remove-palindromic-subsequences](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1332-remove-palindromic-subsequences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2551-apply-operations-to-an-array) |
