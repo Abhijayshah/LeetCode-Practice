@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1408-string-matching-in-an-array) |
+| [1417-reformat-the-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1417-reformat-the-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
