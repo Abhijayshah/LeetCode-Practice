@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1446-consecutive-characters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1332-remove-palindromic-subsequences) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2551-apply-operations-to-an-array) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/0812-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1408-string-matching-in-an-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sliding Window
 |  |
 | ------- |
