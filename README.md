@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1496-path-crossing) |
+| [1507-reformat-date](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1507-reformat-date) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2429-design-a-food-rating-system](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2429-design-a-food-rating-system) |
