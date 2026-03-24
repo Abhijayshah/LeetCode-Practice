@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1372-check-if-it-is-a-good-array) |
 | [1408-string-matching-in-an-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1436-destination-city) |
+| [1528-shuffle-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1603-running-sum-of-1d-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1507-reformat-date) |
+| [1528-shuffle-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1528-shuffle-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2429-design-a-food-rating-system](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2429-design-a-food-rating-system) |
