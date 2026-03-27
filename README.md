@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1544-make-the-string-great) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2429-design-a-food-rating-system](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/2429-design-a-food-rating-system) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhijayshah/DSA_Tutorials_For_Beginners/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1544-make-the-string-great](https://github.com/Abhijayshah/LeetCode-Practice/tree/master/1544-make-the-string-great) |
 ## Binary Search
 |  |
 | ------- |
